@@ -11,10 +11,10 @@ Below are the links to each folder:
 
 ## Folders
 
-- [Environment](./Environment)
-- [Data](./Data/)
-- [Model Integration](./Model_Integration)
-- [Analysis](./Analysis/)
+- [Environment](./01_Environment)
+- [Data](./02_Data/)
+- [Model Integration](./03_Model_Integration)
+- [Analysis](./04_Analysis/)
 
 
 
