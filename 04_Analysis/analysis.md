@@ -1,3 +1,5 @@
+## Evaluation and analysis of system
+
 When evaluating the effectiveness of using LLMs for scripting potential new seasons or spin-offs of "Succession," the experience has definitely shown both promising capabilities and notable limitations.
 
 The use of LLMs, particularly within a GPT-4 conversational environment, displayed really impressive potential for generating interesting continuations of "Succession," and therefore, other shows as well. This follows with my blog posts nearly 3 months ago. I think that these continuations, if further refined, could theoretically contribute to a breakthrough season. The model demonstrated a strong grasp of the characters' defining traits, spinning these into engaging plot developments and scenes that resonated with the established narrative.
